@@ -41,6 +41,7 @@ public class PrintCharArray {
 			System.out.println(part[k]);
 		}
 		
+		System.out.println("Testing");
 		
 	}
 
